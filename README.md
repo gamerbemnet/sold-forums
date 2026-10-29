@@ -1,14 +1,21 @@
-# sold-forums app
+# sold forums
 
-**apk releases live here.** the newest one works on any wifi — it opens through the mirror router and finds a live mirror by itself.
+the school forum app sold - sold-forum-v2.0.
 
-## links
-- **web app (no download):** https://soldlaunch.pages.dev
-- **latest app:** https://github.com/gamerbemnet/sold-forums/releases/latest/download/sold.apk
+## download (newest build, always)
+https://github.com/gamerbemnet/sold-forums/releases/latest/download/sold-forum-v2.0.apk
 
-## install
-1. uninstall any old sold app (different signing key)
-2. tap the latest sold.apk -> install
-3. log in — accounts and messages live on the server, nothing is lost
+## open in browser
+- https://soldlaunch.pages.dev - launcher hub (all mirrors + app download)
+- https://sold2.soldforums.workers.dev - the forum
 
-remember: keep the forum friendly. admin (bemnet) can hand out new links any time.
+## installing
+1. delete any older sold app first
+2. open the apk - Chrome warns it is not from a store: choose keep / download anyway
+3. when Play Protect says unknown app: tap Install anyway
+4. open - it lands straight on the forum
+
+## v2.0 notes
+- app is now called sold-forum-v2.0
+- opens the real forum directly (no hub detour)
+- fresher notifications (last 5 minutes only, no month-old spam)
